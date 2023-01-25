@@ -1,0 +1,10 @@
+check test enviroment is safe & secure
+think of us a person who is watching you when you take the test
+first, access to mice & camera
+then we should be able to detect your face at the begennig to load the test
+if during the test face not detect we'll take a photo and store it
+not a dark room,enough light, clean background,quiet environement no noise
+you are alone in the room , no phones
+don't switch to different tabs
+the recruiter will get report of your test: all the violations
+trust score depending on the violations
