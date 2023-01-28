@@ -10,10 +10,10 @@ import { RecruiterModule } from './recruiter/recruiter.module';
 @Module({
   imports: [TypeOrmModule.forRoot({
     type: 'mysql',
-    host: 'localhost',
+    host: 'db',
     port: 3306,
     username: 'root',
-    password: '',
+    password: 'password',
     database: 'projetnest',
     autoLoadEntities: true,
     synchronize: true,
